@@ -1,1 +1,1 @@
-helo world, welcome
+echo "helo world, welcome"
